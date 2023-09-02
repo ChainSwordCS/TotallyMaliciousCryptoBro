@@ -1,4 +1,4 @@
-module github.com/akirataguchi115/akirataguchi115
+module github.com/TotallyMaliciousCryptoBro/TotallyMaliciousCryptoBro/edit/main/go.mod
 
 go 1.20
 
