@@ -21,27 +21,27 @@ require (
 	gioui.org/shader v1.0.6 // indirect
 	github.com/0nn0/terminal-mac-cheatsheet v0.0.0-20230302113526-8e2ff13f83e5 // indirect
 	github.com/rust-lang/rust v1.72.0 // indirect
-github.com/ThePrimeagen/harpoon
-github.com/ThePrimeagen/.dotfiles
-github.com/ThePrimeagen/init.lua
-github.com/ThePrimeagen/refactoring.nvim
-github.com/ThePrimeagen/vim-be-good
-github.com/fireship-io/fireship.io
-github.com/fireship-io/flamethrower
-github.com/torvalds/linux
-github.com/opentffoundation/manifesto
-github.com/twitter/the-algorithm
-github.com/twitter/typeahead.js
-github.com/twitter/twemoji
-github.com/twitter/twemproxy
-github.com/twitter/the-algorithm-ml
-github.com/facebook/buck2
-github.com/facebook/react-native
-github.com/Instagram/MonkeyType
-github.com/archlinux/archinstall
-github.com/archlinux/linux
-github.com/ubuntu/yaru
-github.com/ubuntu/ubuntu-make
+	github.com/ThePrimeagen/harpoon // indirect
+	github.com/ThePrimeagen/.dotfiles // indirect
+	github.com/ThePrimeagen/init.lua // indirect
+	github.com/ThePrimeagen/refactoring.nvim // indirect
+	github.com/ThePrimeagen/vim-be-good // indirect
+	github.com/fireship-io/fireship.io // indirect
+	github.com/fireship-io/flamethrower // indirect
+	github.com/torvalds/linux // indirect
+	github.com/opentffoundation/manifesto // indirect
+	github.com/twitter/the-algorithm // indirect
+	github.com/twitter/typeahead.js // indirect
+	github.com/twitter/twemoji // indirect
+	github.com/twitter/twemproxy // indirect
+	github.com/twitter/the-algorithm-ml // indirect
+	github.com/facebook/buck2 // indirect
+	github.com/facebook/react-native // indirect
+	github.com/Instagram/MonkeyType // indirect
+	github.com/archlinux/archinstall // indirect
+	github.com/archlinux/linux // indirect
+	github.com/ubuntu/yaru // indirect
+	github.com/ubuntu/ubuntu-make // indirect
 	github.com/0x5e/wechat-deleted-friends v0.0.0-20160628154228-b37f324f9a4d // indirect
 	github.com/0x7c13/Notepads v0.0.0-20230315051852-17f26a173040 // indirect
 	github.com/0xAX/linux-insides v0.0.0-20230217091023-859d98c0375f // indirect
